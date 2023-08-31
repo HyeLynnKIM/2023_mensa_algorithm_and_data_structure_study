@@ -29,6 +29,14 @@
 
 1주차 : stack <br>
 2주차 : queue <br>
+3주차 : priority-queue <br>
+4주차 : graph and tree <br?
+5주차 : graph and tree2 <br>
+6주차 : greedy (+ graph)
+7주차 : dp & brute force
+8주차 : backtracking
+9주차 : greedy
+10주차 : 
 
 
 ### 1-2) 참여자
@@ -51,7 +59,7 @@
 ### 파일 이름 : 문제 플랫폼_번호 
 
 코드업: codeup, 백준 : boj, 프로그래머스 : programmers 접미사 사용 <br>
-ex) codeup_3130.py, boj_10000.cpp <br>
+ex) *codeup_3130.py*, *boj_10000.cpp <br>*
 
 ### 내용 : 상단 주석에 문제 링크와 접근 방법, 구현 방법 후 주석을 첨가한 소스 코드 첨부.
 
