@@ -32,11 +32,11 @@
 3주차 : priority-queue <br>
 4주차 : graph and tree <br?
 5주차 : graph and tree2 <br>
-6주차 : greedy (+ graph)
-7주차 : dp & brute force
-8주차 : backtracking
-9주차 : greedy
-10주차 : 
+6주차 : greedy (+ graph) <br>
+7주차 : dp & brute force <br>
+8주차 : backtracking <br>
+9주차 : greedy <br>
+10주차 : <br>
 
 
 ### 1-2) 참여자
